@@ -68,7 +68,7 @@ Idade,Salario,Comprou
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/PrevisaoProjeto.git
+git clone https://github.com/Guilhermeoliveira10/PrevisaoProjeto.git
 cd PrevisaoProjeto
 ```
 
@@ -99,7 +99,7 @@ https://localhost:xxxx/swagger
 
 ## 📹 Demonstração em Vídeo
 
-🔗 [Clique aqui para assistir ao vídeo de execução da aplicação](https://youtube.com/...)
+🔗 [Clique aqui para assistir ao vídeo de execução da aplicação](https://youtu.be/hDgWt3sSugs)
 
 ---
 
@@ -117,7 +117,3 @@ https://localhost:xxxx/swagger
 - Validações de entrada com `DataAnnotations`
 - Arquitetura simples em camadas (DTO, Controller, Service, Model)
 - Projeto com objetivo acadêmico para avaliação de conceitos de IA com .NET
-
----
-
-Desenvolvido para a disciplina de Inteligência Artificial aplicada no curso da FIAP. 🚀
